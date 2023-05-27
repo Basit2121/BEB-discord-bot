@@ -1,0 +1,14 @@
+
+Departure Location: Himyar 🛫
+Departure Time: 13:00 ⏰
+Arrival Location: Kazakhstan 🛬
+Arrival Time: 21:00 ⏰
+-------------------------
+
+
+Departure Location: Kushan 🛫
+Departure Time: 18:00 ⏰
+Arrival Location: India 🛬
+Arrival Time: 22:00 ⏰
+-------------------------
+
